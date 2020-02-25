@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/mohas1203/Flappy-Bird-AI) 
+
 # Flappy-Bird-AI
 Flappy bird AI learns to play the game itself. 
 - Python needed to run application
